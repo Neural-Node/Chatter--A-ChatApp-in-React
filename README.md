@@ -9,8 +9,6 @@ This app was built using the following technologies:
 - [Tailwind CSS](https://tailwindcss.com/)
 - [NPM](https://www.npmjs.com/) v9.3.1
 - [Node](https://nodejs.org/en/) v18.14.0
-- [Framer Motion](https://www.framer.com/motion/)
-
 ## Getting Started
 1. Clone the repository
 2. Install dependencies
