@@ -2,6 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import LoginPage from './Pages/LoginPage'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -9,14 +10,7 @@ function App() {
   return (
     <>
       
-      <div className="text-lime-500">
-        Here is our app
-      </div>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          Cool level: {count}%
-        </button>
-        </div>
+      <LoginPage/>
        
     </>
   )
