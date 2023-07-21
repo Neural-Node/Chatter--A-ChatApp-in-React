@@ -2,10 +2,11 @@ import React from "react";
 import ChatBox from "../Components/ChatBox";
 import ContactBox from "../Components/ContactBox";
 
-const LoginPage=()=>{
+const RegisterPage=()=>{
     return(
         <div className="">
-            login page
+            Register page
+            
         </div>
     )
-}; export default LoginPage
+}; export default RegisterPage

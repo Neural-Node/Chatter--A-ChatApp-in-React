@@ -2,10 +2,12 @@ import React from "react";
 import ChatBox from "../Components/ChatBox";
 import ContactBox from "../Components/ContactBox";
 
-const LoginPage=()=>{
+const MainPage=()=>{
     return(
-        <div className="">
-            login page
+        <div className="flex space-x-3">
+            <ContactBox/>
+            <ChatBox/>
+            
         </div>
     )
-}; export default LoginPage
+}; export default MainPage
