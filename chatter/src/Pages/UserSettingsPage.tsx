@@ -1,7 +1,7 @@
 import React from "react";
 const UserSettingsPage=()=>{
     return(
-        <div className="user-preferences">
+        <div className="">
             usersettings
         </div>
     )
