@@ -4,9 +4,8 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import LoginPage from './Pages/LoginPage'
 
-function App() {
-  const [count, setCount] = useState(0)
 
+function App() {
   return (
     <>
       
