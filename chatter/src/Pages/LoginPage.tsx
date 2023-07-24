@@ -5,7 +5,7 @@ import ContactBox from "../Components/ContactBox";
 const LoginPage=()=>{
     return(
         <div className="">
-            login page
+            
         </div>
     )
 }; export default LoginPage
