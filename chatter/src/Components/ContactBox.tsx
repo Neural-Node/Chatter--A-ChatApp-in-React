@@ -27,5 +27,8 @@ item = [];
                     </ul>
             </div>
         </>
+
+        <div className="w-[300px] flex flex-1 bg-slate-600">
+        </div>
     )
 }; export default ContactBox
