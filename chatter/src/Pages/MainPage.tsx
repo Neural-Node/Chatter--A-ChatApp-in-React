@@ -6,7 +6,7 @@ const MainPage=()=>{
     return(
         <div className="">
         <div className=" w-auto flex flex-1 space-x-3">
-            <ContactBox/>
+            {/* <ContactBox/> */}
             <ChatBox/>
         </div>
         </div>
